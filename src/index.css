@@ -12,10 +12,15 @@
 }
 .navbar {
   color: white;
-  text-align: center;
+  text-align: left;
+  padding-left: 5%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   border-radius: 0px;
   background: #bb0000;
+}
+.navbar .you{
+  color: white;
+  font-size: 150%;
 }
 
 .video-item img {
@@ -41,7 +46,7 @@ video-detail .details {
   padding-right: 40px;
 }
 .inputWithAddon {
-  width: 75%;
+  width: 80%;
   margin-bottom: 15px;
   position: relative;
   margin-right: auto;
