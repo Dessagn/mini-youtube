@@ -8,7 +8,7 @@ class SearchBar extends Component {
         return(
             <div className="navbar">
                 <h2  className="col-sm-1">
-                    <a className="you" href="/">
+                    <a className="you" href="/mini-youtube/">
                     <i className="fa fa-youtube fa-lg hidden-xs"> </i>
                     </a>
                 </h2>
