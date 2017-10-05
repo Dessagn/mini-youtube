@@ -3,9 +3,9 @@
   text-align: center;
 }
 .container {
-  margin-left: 35px;
-  margin-right: 15px;
-  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
 }
 .search-box input{
   border-right-style:none;

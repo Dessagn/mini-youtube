@@ -9,7 +9,7 @@ class SearchBar extends Component {
             <div className="navbar">
                 <h2  className="col-sm-1">
                     <a className="you" href="/">
-                    <i className="fa fa-youtube fa-lg"> </i>
+                    <i className="fa fa-youtube fa-lg hidden-xs"> </i>
                     </a>
                 </h2>
                 <div className="search-bar col-sm-10">
